@@ -1,4 +1,4 @@
-package com.jxl.xlCoding.dataStructure;
+package com.jxl.xlCoding.Algorithm;
 
 public class BigNumberSubtraction {
 
